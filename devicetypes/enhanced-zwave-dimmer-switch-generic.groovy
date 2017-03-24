@@ -12,7 +12,7 @@
  *
  */
 metadata {
-	definition (name: "ENHANCED Z-Wave Dimmer Switch Generic", namespace: "jmb12686", author: "JohnBelisle") {
+	definition (name: "Better Z-Wave Dimmer Switch Generic", namespace: "jmb12686", author: "JohnBelisle") {
 		capability "Switch Level"
 		capability "Actuator"
 		capability "Health Check"
